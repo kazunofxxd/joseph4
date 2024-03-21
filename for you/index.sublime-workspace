@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"mx",
+				"max-height\tproperty"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jt920_000/Desktop/josephtomas/joseph.html",
+		"/F/KIM_project/kim.html",
+		"/F/KIM_project/CSS/kimkim.css",
+		"/C/Users/jt920_000/Desktop/josephtomas/CSS/joseph.css",
+		"/C/Users/jt920_000/Desktop/web.joseph/joseph.css",
+		"/C/Users/jt920_000/Desktop/web.joseph/joseph.html",
+		"/C/Users/jt920_000/Desktop/andreaproject/andrea.html",
+		"/C/Users/jt920_000/Desktop/andreaproject/CSS/diego.css",
+		"/C/Users/jt920_000/Desktop/angelproject/angel.html",
+		"/C/Users/jt920_000/Desktop/ELEC_PROJECT_ANGEL/delos_santos.html",
+		"/C/Users/jt920_000/Desktop/ELEC_PROJECT_ANGEL/angel.css",
+		"/C/Users/jt920_000/Desktop/ELECTT1/andrea.html",
+		"/C/Users/jt920_000/Desktop/ELECTT1/css/diego.css",
+		"/F/prelim-markanthonysenocbitBSITELEC01ACT1D/CSS/senocbit.css",
+		"/F/prelim-markanthonysenocbitBSITELEC01ACT1D/mark.html",
+		"/F/andrea/andrea.html",
+		"/C/Users/jt920_000/Desktop/ELECTT1/andrea.css",
+		"/C/Users/jt920_000/Documents/joseph tomas/joseph.html",
+		"/C/Users/jt920_000/Documents/joseph tomas/joseph.css",
+		"/C/Users/jt920_000/Documents/facebook.css",
+		"/C/Users/jt920_000/Documents/facebook.html",
+		"/C/Users/jt920_000/Desktop/Facebook login/facebook.html",
+		"/C/Users/jt920_000/Desktop/Facebook login/facebook.css",
+		"/C/Users/jt920_000/Desktop/facebook login/fecebook.html",
+		"/C/Users/jt920_000/Desktop/facebook login/facebook.css",
+		"/C/Users/jt920_000/Desktop/facebook login/facebook.html",
+		"/C/Users/jt920_000/Documents/Kim Antipuesto/Kim.css",
+		"/C/Users/jt920_000/Documents/Kim Antipuesto/Kim.html",
+		"/C/Users/jt920_000/Desktop/ELECT1/joseph.css.css",
+		"/C/Users/jt920_000/Desktop/ELECT1/joseph.html.html",
+		"/C/Users/jt920_000/Desktop/JOSEPH ELECT1/joseph.css",
+		"/C/Users/jt920_000/Desktop/JOSEPH ELECT1/joseph.html",
+		"/C/Users/jt920_000/Desktop/ELECT1/joseph.html",
+		"/C/Users/jt920_000/Desktop/ELECT1/joseph.css",
+		"/C/Users/jt920_000/Desktop/KIM/kim.html.html",
+		"/C/Users/jt920_000/Documents/ELECT2/joseph.css",
+		"/C/Users/jt920_000/Documents/ELECT2/joseph.html",
+		"/C/Users/jt920_000/Desktop/ELECT1/nature.jpeg",
+		"/C/Users/jt920_000/Documents/ELECT 1/joseph.css",
+		"/C/Users/jt920_000/Documents/ELECT 1/joseph.html",
+		"/C/Users/jt920_000/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/jt920_000/Documents/css/joseph.css",
+		"/C/Users/jt920_000/Documents/joseph.html",
+		"/C/Users/jt920_000/Downloads/web.html",
+		"/C/Users/jt920_000/Documents/luhhh.html",
+		"/C/Users/jt920_000/Documents/joseph.css/joseph.css",
+		"/C/Users/jt920_000/Documents/joseph.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
